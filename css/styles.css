@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=KoHo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+#container {
+  width: 100%;
+  margin: auto;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+#contents {
+  width: 100%;
+  height: 100%;
+  float: left;
+  background: #ffffff;
+  margin-top: 0px;
+  margin-right: 0px;
+}
+
+.hr1 {
+  width: 80%;
+  color: #fff;
+  background-color: #fff;
+  height: 0px;
+  border-color: #fff;
+}
+
+.hr2 {
+  width: 85%;
+  color: #575757;
+  background-color: #a7a3a3;
+  height: 0px;
+  border-color: #ececec;
+}
+
+.pie_pag {
+  border: 1px solid #000;
+  font-family: "Oswald", sans-serif;
+  width: 23px;
+  height: 23px;
+  text-align: center;
+}
+
+.pie_pag a {
+  text-decoration: none;
+  color: #000000;
+}
+
+aside {
+  width: 20%;
+  height: 100%;
+  background: green;
+  margin-top: 0px;
+  float: right;
+}
+
+.div_img{
+width: 100%;
+}
+
+.images {
+  width: 31.9%;
+  padding: 0% 0% 0% 0%;
+  margin: .2%;
+  box-shadow: 0px 0px 0px #c9c8c8;
+  border-radius: 0px 0px 0px 0px;
+  border: 0px 0px 0px 0px solid #ffffff;
+  clip-path: inset(0 0 0 0);
+}
+
+.imagesv {
+width: 10.1%;
+  padding: 0% 0% 0% 0%;
+  margin: .2%;
+  box-shadow: 0px 0px 0px #c9c8c8;
+  border-radius: 0px 0px 0px 0px;
+  border: 0px 0px 0px 0px solid #ffffff;
+}
+
+
+
+
+<!--x-->
+
+
+
+
+
+
+
+
+
+
+
+
+
