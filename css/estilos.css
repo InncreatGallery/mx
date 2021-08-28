@@ -90,3 +90,38 @@ font-family: 'KoHo', sans-serif;
 		grid-template-columns: 1fr;
 	}
 }
+
+/*====================Responsive(PC)====================*/
+@media screen and (max-width: 800px) {
+
+.pregunta {
+	font-weight: 700;
+	font-size: 15px;
+	line-height: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+font-family: 'KoHo', sans-serif;
+}
+
+.respuesta {
+	color: #808080;
+	line-height: 30px;
+	max-height: 0;
+	opacity: 0;
+	transition: .3s ease all;
+font-family: 'KoHo', sans-serif;
+	font-size: 15px;
+}
+
+.contenedor-pregunta {
+	background: #fff;
+	padding: 20px;
+	border: 2px solid transparent;
+	border-radius: 10px;
+	overflow: hidden;
+	transition: .3s ease all;
+	cursor: pointer;
+}
+
+}
