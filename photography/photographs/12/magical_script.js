@@ -3,26 +3,26 @@
 var main
 
 	main = document.getElementById("main");
-	main.src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.6435-9/p526x296/244113125_351001866779070_2244739952991171320_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGoQ5qGGzb47D_M4TGbJHM2dhBjB3rSmDF2EGMHetKYMa4rHv89NfErFoFq5CG_ZbsRhPZlYbrgH9nalEnTHVJy&_nc_ohc=ah6dlZfw5REAX8_PT8V&_nc_ht=scontent-qro1-1.xx&oh=41e5ab79fde057a1a4e6f0a8b841454e&oe=61950E98";
+	main.src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.6435-9/p526x296/242989945_350998996779357_8588462446238869994_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeETaEi3mDw4fwXc82TnMWFnAkbu3jh6h1gCRu7eOHqHWN7g9-6uzt99Ai2q2E4xBCnmvhKlQOjlCDRkWW7MfMwa&_nc_ohc=QuTIbur5h0oAX-Xlvyt&_nc_ht=scontent-qro1-1.xx&oh=19a598f0a0e3cafec915f1917a876503&oe=6193B20F";
 
 //==========__________CATEGORIAS-IMAGEN__________==========
 
 var principal;
 
 	principal = document.getElementById("principal");
-	principal.innerHTML = "Caba&ntilde;a &nbsp;&nbsp; Madera &nbsp;&nbsp; Monta&ntilde;a";
+	principal.innerHTML = "Fogata &nbsp;&nbsp; Fuego &nbsp;&nbsp; Chispas &nbsp;&nbsp; Negro";
 
 //==========__________LINKS-DESCARGA__________==========
 
 var download
 
 	download = document.getElementById("download");
-	download.href="https://www.mediafire.com/file/muzumvwaemwtfsm/photography30.jpg/file";
+	download.href="https://www.mediafire.com/file/uv0b75p97qe0ols/photography12.jpg/file";
 
 var download_media
 
 	download_media = document.getElementById("download_media");
-	download_media.href="https://www.mediafire.com/file/muzumvwaemwtfsm/photography30.jpg/file";
+	download_media.href="https://www.mediafire.com/file/uv0b75p97qe0ols/photography12.jpg/file";
 
 //==========__________SCRIPT-PERFIL__________==========
 

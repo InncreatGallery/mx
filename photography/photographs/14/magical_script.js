@@ -3,26 +3,26 @@
 var main
 
 	main = document.getElementById("main");
-	main.src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.6435-9/p526x296/244113125_351001866779070_2244739952991171320_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGoQ5qGGzb47D_M4TGbJHM2dhBjB3rSmDF2EGMHetKYMa4rHv89NfErFoFq5CG_ZbsRhPZlYbrgH9nalEnTHVJy&_nc_ohc=ah6dlZfw5REAX8_PT8V&_nc_ht=scontent-qro1-1.xx&oh=41e5ab79fde057a1a4e6f0a8b841454e&oe=61950E98";
+	main.src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.6435-9/p180x540/244529420_350999243445999_5562112220675668852_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEVsSg6pjECEK5vWEOx7Ncvv2dG2Piusnu_Z0bY-K6ye8ImkBDOd2Zv1Cn9GiKese1Z3McxOqjXCp6Jc8gFzZW4&_nc_ohc=6KY26zTY9NgAX9Z5RGY&_nc_ht=scontent-qro1-1.xx&oh=cc94c43d131f7f542a2b1c26607233a2&oe=6195E833";
 
 //==========__________CATEGORIAS-IMAGEN__________==========
 
 var principal;
 
 	principal = document.getElementById("principal");
-	principal.innerHTML = "Caba&ntilde;a &nbsp;&nbsp; Madera &nbsp;&nbsp; Monta&ntilde;a";
+	principal.innerHTML = "Fogata &nbsp;&nbsp; Fuego &nbsp;&nbsp; Rojo &nbsp;&nbsp; Negro";
 
 //==========__________LINKS-DESCARGA__________==========
 
 var download
 
 	download = document.getElementById("download");
-	download.href="https://www.mediafire.com/file/muzumvwaemwtfsm/photography30.jpg/file";
+	download.href="https://www.mediafire.com/file/es9e2hcv0pnuaup/photography14.jpg/file";
 
 var download_media
 
 	download_media = document.getElementById("download_media");
-	download_media.href="https://www.mediafire.com/file/muzumvwaemwtfsm/photography30.jpg/file";
+	download_media.href="https://www.mediafire.com/file/es9e2hcv0pnuaup/photography14.jpg/file";
 
 //==========__________SCRIPT-PERFIL__________==========
 
@@ -46,7 +46,7 @@ var formato;
 var resolucion;
 
 	resolucion = document.getElementById("text_data2");
-	resolucion.innerHTML = "2304 x 4096";
+	resolucion.innerHTML = "4096 x 2304";
 
 var subido;
 

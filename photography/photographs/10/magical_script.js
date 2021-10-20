@@ -3,26 +3,26 @@
 var main
 
 	main = document.getElementById("main");
-	main.src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.6435-9/p526x296/244113125_351001866779070_2244739952991171320_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGoQ5qGGzb47D_M4TGbJHM2dhBjB3rSmDF2EGMHetKYMa4rHv89NfErFoFq5CG_ZbsRhPZlYbrgH9nalEnTHVJy&_nc_ohc=ah6dlZfw5REAX8_PT8V&_nc_ht=scontent-qro1-1.xx&oh=41e5ab79fde057a1a4e6f0a8b841454e&oe=61950E98";
+	main.src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.6435-9/p180x540/243806134_350998780112712_7370575967226914924_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeG_TgTcgCFfnRBYOVYkE-97AD12_myD_9wAPXb-bIP_3Jk0ATj1NttV8qrvuKmUQMA1xPu18L1cmgSu4UXzLfdp&_nc_ohc=o-4AUiV3rCoAX-PTlNi&_nc_ht=scontent-qro1-1.xx&oh=735561c5fa43bef2926e3ae6d34b1268&oe=61962E5D";
 
 //==========__________CATEGORIAS-IMAGEN__________==========
 
 var principal;
 
 	principal = document.getElementById("principal");
-	principal.innerHTML = "Caba&ntilde;a &nbsp;&nbsp; Madera &nbsp;&nbsp; Monta&ntilde;a";
+	principal.innerHTML = "Persona &nbsp;&nbsp; Mujer &nbsp;&nbsp; Caba&ntilde;a &nbsp;&nbsp; Bosque &nbsp;&nbsp; Azul &nbsp;&nbsp; Verde";
 
 //==========__________LINKS-DESCARGA__________==========
 
 var download
 
 	download = document.getElementById("download");
-	download.href="https://www.mediafire.com/file/muzumvwaemwtfsm/photography30.jpg/file";
+	download.href="https://www.mediafire.com/file/3aj13dd83ecwpjh/photography10.jpg/file";
 
 var download_media
 
 	download_media = document.getElementById("download_media");
-	download_media.href="https://www.mediafire.com/file/muzumvwaemwtfsm/photography30.jpg/file";
+	download_media.href="https://www.mediafire.com/file/3aj13dd83ecwpjh/photography10.jpg/file";
 
 //==========__________SCRIPT-PERFIL__________==========
 
@@ -46,7 +46,7 @@ var formato;
 var resolucion;
 
 	resolucion = document.getElementById("text_data2");
-	resolucion.innerHTML = "2304 x 4096";
+	resolucion.innerHTML = "4096 x 2304";
 
 var subido;
 

@@ -3,26 +3,26 @@
 var main
 
 	main = document.getElementById("main");
-	main.src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.6435-9/p526x296/244113125_351001866779070_2244739952991171320_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGoQ5qGGzb47D_M4TGbJHM2dhBjB3rSmDF2EGMHetKYMa4rHv89NfErFoFq5CG_ZbsRhPZlYbrgH9nalEnTHVJy&_nc_ohc=ah6dlZfw5REAX8_PT8V&_nc_ht=scontent-qro1-1.xx&oh=41e5ab79fde057a1a4e6f0a8b841454e&oe=61950E98";
+	main.src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.6435-9/p526x296/242979472_351000023445921_2500682621519425823_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeETebBfJKFFY2aT3k9zYhAnHtgKZt3ytcke2Apm3fK1yc5f4gf__5w3ADHQtQFCcOLM_SlxS--H0zNzzgVwpU1g&_nc_ohc=3ZOYjlCP0HAAX8krt8G&_nc_ht=scontent-qro1-1.xx&oh=c0fb7f257776f0fe7da3587f07c5f938&oe=61938C95";
 
 //==========__________CATEGORIAS-IMAGEN__________==========
 
 var principal;
 
 	principal = document.getElementById("principal");
-	principal.innerHTML = "Caba&ntilde;a &nbsp;&nbsp; Madera &nbsp;&nbsp; Monta&ntilde;a";
+	principal.innerHTML = "Arboles &nbsp;&nbsp; Verde &nbsp;&nbsp; Jardin &nbsp;&nbsp; Bosque";
 
 //==========__________LINKS-DESCARGA__________==========
 
 var download
 
 	download = document.getElementById("download");
-	download.href="https://www.mediafire.com/file/muzumvwaemwtfsm/photography30.jpg/file";
+	download.href="https://www.mediafire.com/file/bu3ug4aqj3q1jef/photography19.jpg/file";
 
 var download_media
 
 	download_media = document.getElementById("download_media");
-	download_media.href="https://www.mediafire.com/file/muzumvwaemwtfsm/photography30.jpg/file";
+	download_media.href="https://www.mediafire.com/file/bu3ug4aqj3q1jef/photography19.jpg/file";
 
 //==========__________SCRIPT-PERFIL__________==========
 
