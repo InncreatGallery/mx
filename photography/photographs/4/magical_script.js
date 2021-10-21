@@ -10,7 +10,7 @@ var main
 var principal;
 
 	principal = document.getElementById("principal");
-	principal.innerHTML = "Arbol &nbsp;&nbsp; Hojas &nbsp;&nbsp; Verde";
+	principal.innerHTML = "Arboles &nbsp;&nbsp; Hojas &nbsp;&nbsp; Verde";
 
 //==========__________LINKS-DESCARGA__________==========
 
