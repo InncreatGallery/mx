@@ -3,7 +3,7 @@
 var main
 
 	main = document.getElementById("main");
-	main.src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.6435-9/p180x540/243132045_350999430112647_7358483191441271426_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEeFwGbvE22w5KhYQz3rxg6fjjQpVqmlGp-ONClWqaUasVzduDo0ZQLjNcB1fVueAwqwWFFB8pYEoagMQsO0WOm&_nc_ohc=HR3wekr0MyIAX_psoAz&tn=5x3WG83OT-Fhb2NX&_nc_ht=scontent-qro1-1.xx&oh=94c6311b78a41d11ab28a6b24f9fd5c3&oe=619453E8";
+	main.src="https://www.mediafire.com/convkey/ed3a/cqgeoe74aoqginv7g.jpg";
 
 //==========__________CATEGORIAS-IMAGEN__________==========
 
